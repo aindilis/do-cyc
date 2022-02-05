@@ -1,0 +1,136 @@
+(f "DoCYCMt")
+(am '(#$isa #$DoCYCMt #$Microtheory) #$BaseKB)
+
+(f "Task")
+(am '(#$genls #$Task #$PlannedEvent) #$DoCYCMt)
+
+(f "RecurrentTask")
+(am '(#$genls #$RecurrentTask #$Task) #$DoCYCMt)
+
+(f "TakeOutTheTrashTask")
+(am '(#$genls #$TakeOutTheTrashTask #$RecurrentTask) #$DoCYCMt)
+
+(f "recurrentTaskFn")
+(am '(#$isa #$recurrentTaskFn #$BinaryFunction) #$DoCYCMt)
+(am '(#$argIsa #$recurrentTaskFn 1 #$TemporalThing) #$DoCYCMt)
+(am '(#$argIsa #$recurrentTaskFn 2 #$Task) #$DoCYCMt)
+(am '(#$resultIsa #$recurrentTaskFn #$RecurrentTask) #$DoCYCMt) 
+(am '(#$arity #$recurrentTaskFn 2) #$DoCYCMt)
+
+(am '(#$isa (#$recurrentTaskFn (#$DayFn 18 (#$MonthFn #$September (#$YearFn 2021))) #$TakeOutTheTrashTask) #$TakeOutTheTrashTask) #$DoCYCMt)
+
+(f "CleaningTask")
+(am '(#$genls #$CleaningTask #$Task) #$DoCYCMt)
+(am '(#$genls #$TakeOutTheTrashTask #$CleaningTask) #$DoCYCMt)
+
+;; (all-specs #$CleaningTask)
+
+(f "DevelopmentTask")
+(am '(#$genls #$DevelopmentTask #$Task) #$DoCYCMt)
+
+(f "FinishTodoSystem")
+(am '(#$genls #$FinishTodoSystem #$DevelopmentTask) #$DoCYCMt)
+
+(f "subTask")
+(am '(#$isa #$subTask #$BinaryRelation) #$DoCYCMt)
+(am '(#$argIsa #$subTask 1 #$Task) #$DoCYCMt)
+(am '(#$argIsa #$subTask 2 #$Task) #$DoCYCMt)
+(am '(#$arity #$subTask 2) #$DoCYCMt)
+
+(f "NonrepeatingTask")
+(am '(#$genls #$NonrepeatingTask #$Task) #$DoCYCMt)
+(am '(#$disjointWith #$NonrepeatingTask #$RecurrentTask) #$DoCYCMt)
+
+(am '(#$genls #$FinishTodoSystem #$NonrepeatingTask) #$DoCYCMt)
+
+(f "FigureOutCycLRepresentationForTasks")
+(am '(#$genls #$FigureOutCycLRepresentationForTasks #$NonrepeatingTask) #$DoCYCMt)
+(am '(#$subTask #$FigureOutCycLRepresentationForTasks #$FinishTodoSystem) #$DoCYCMt)
+
+;; If LOGICMOO were alpha, I could use LOGICMOO to talk to OCYC, and then, hrm what was it
+
+(f "assignedToTask")
+(am '(#$isa #$assignedToTask #$BinaryRelation) #$DoCYCMt)
+(am '(#$argIsa #$assignedToTask 1 #$IntelligentAgent) #$DoCYCMt)
+(am '(#$argIsa #$assignedToTask 2 #$Task) #$DoCYCMt)
+(am '(#$arity #$assignedToTask 2) #$DoCYCMt)
+
+(am '(#$assignedToTask #$AndrewDougherty #$FigureOutCycLRepresentationForTasks) #$DoCYCMt)
+
+(f "hasRewardForCompletingTask")
+(am '(#$isa #$hasRewardForCompletingTask #$TernaryRelation) #$DoCYCMt)
+(am '(#$argIsa #$hasRewardForCompletingTask 1 #$IntelligentAgent) #$DoCYCMt)
+(am '(#$argIsa #$hasRewardForCompletingTask 2 #$Task) #$DoCYCMt)
+(am '(#$argIsa #$hasRewardForCompletingTask 3 #$Reward) #$DoCYCMt)
+(am '(#$arity #$hasRewardForCompletingTask 3) #$DoCYCMt)
+
+;; (am '(#$hasRewardForCompletingTask #$AndrewDougherty #$FigureOutCycLRepresentation (#$increaseDiscretionaryFundsBy #$AndrewDougherty (#$dollarsFn 20)))
+
+(f "GenericReward1")
+(am '(#$isa #$GenericReward1 #$Reward) #$DoCYCMt)
+
+(am '(#$hasRewardForCompletingTask #$AndrewDougherty #$FigureOutCycLRepresentationForTasks #$GenericReward1) #$DoCYCMt)
+
+;; this stuff is all relatively obvious
+
+;; so then they're be like:
+
+(f "hasTaskDescription")
+(am '(#$isa #$hasTaskDescription #$BinaryRelation) #$DoCYCMt)
+(am '(#$argIsa #$hasTaskDescription 1 #$Task) #$DoCYCMt)
+(am '(#$argIsa #$hasTaskDescription 2 #$CharacterString) #$DoCYCMt)
+(am '(#$arity #$hasTaskDescription 2) #$DoCYCMt)
+
+(am '(#$hasTaskDescription #$FinishTodoSystem "We need to get a machine-readable todo system that will increase self discipline") #$DoCYCMt)
+
+(f "hasExpectedDuration")
+(am '(#$isa #$hasExpectedDuration #$BinaryRelation) #$DoCYCMt)
+(am '(#$argIsa #$hasExpectedDuration 1 #$Task) #$DoCYCMt)
+(am '(#$argIsa #$hasExpectedDuration 2 #$TemporalThing) #$DoCYCMt)
+(am '(#$arity #$hasExpectedDuration 2) #$DoCYCMt)
+
+;; (am '(#$hasExpectedDuration #$TakeOutTheTrash (#$minutesFn 5)) #$DoCYCMt)  
+
+;; do you have any ideas?  this is all like finite numbers but I'm looking for very large ordinals
+;; koo5 — Today at 6:44 PM
+;; what do you mean?
+;; aindilis — Today at 6:44 PM
+;; well this stuff is all pretty mundanely true, something more interesting would be the SCID or CYC-ZK
+;; the SCID would be an interactive elicitation system
+;; So like, since you said postpone the SCID, CYC-ZK would have notes:
+;; koo5 — Today at 6:48 PM
+;; well i'd like to set up a situation-aware reminder system for myself
+;;; aindilis — Today at 6:48 PM
+
+;; (#$hasFormalization (#$TaskDescriptionFn #$FinishTodoSystem) (#$oughtTo #$FRDCSATeam (#$achieveTask (#$taskFn (#$complete #$TodoSystem)))))))
+;; (#$hasDeadline (#$currentInstanceFn #$TakeOutTheTrashTask) (#$daysFromTime (#$timeAssignedFn (#$argFn 1 #$thisSentence))) (#$daysFn 3)))
+
+(f "taskDepends")
+(am '(#$isa #$taskDepends #$BinaryRelation) #$DoCYCMt)
+(am '(#$argIsa #$taskDepends 1 #$Task) #$DoCYCMt)
+(am '(#$argIsa #$taskDepends 2 #$Task) #$DoCYCMt)
+(am '(#$arity #$taskDepends 2) #$DoCYCMt)
+(am '(#$comment #$taskDepends "<code>(#$taskDepends TASK1 TASK2)</code> means that ") #$DoCYCMt)
+
+
+;; make a (#$taskDoCYCMtFn "tess") that creates a microtheory for each
+;; discovered '/<project>/<project>.docyc' file
+
+(func-1 "taskDoCYCMtFn" #$String #$Microtheory #$DoCYCMt)
+
+;; ;; ;;;(csetq-local *frdcsa-internal-codebase-directory* "/var/lib/myfrdcsa/codebases/internal")
+;; (pif (directory-p *frdcsa-internal-codebase-directory*)
+;;  (cdolist (*internal-codebase* (directory-sorted *frdcsa-internal-codebase-directory*))
+;;   (pif (file-exists? (cconcatenate (cconcatenate (cconcatenate (cconcatenate *frdcsa-internal-codebase-directory* "/") *internal-codebase*) "/to.docyc")))
+;;    (am (list #$genlMt (list #$taskDoCYCMtFn *internal-codebase*) #$DoCYCMt) #$UniversalVocabularyMt))))
+
+;; (csetq-local *frdcsa-minor-codebase-directory* "/var/lib/myfrdcsa/codebases/minor")
+(pif (directory-p *frdcsa-minor-codebase-directory*)
+ (cdolist (*minor-codebase* (directory-sorted *frdcsa-minor-codebase-directory*))
+  (pif (file-exists? (cconcatenate (cconcatenate (cconcatenate (cconcatenate *frdcsa-minor-codebase-directory* "/") *minor-codebase*) "/to.docyc")))
+   (am (list #$genlMt (list #$taskDoCYCMtFn *minor-codebase*) #$DoCYCMt) #$UniversalVocabularyMt))))
+
+;; (csetq-local *frdcsa-external-codebase-directory* "/var/lib/myfrdcsa/codebases/external")
+;; (pif (directory-p *frdcsa-external-codebase-directory*)
+;;  (cdolist (*external-codebase* (directory-sorted *frdcsa-external-codebase-directory*))
+;;   (am (list #$isa (list #$frdcsaExternalCodebaseFn *external-codebase*) #$FRDCSAExternalCodebase) #$UniversalVocabularyMt)))

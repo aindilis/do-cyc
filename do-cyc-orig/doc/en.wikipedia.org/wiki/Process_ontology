@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Process ontology - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a0edac79-1d2c-4a34-8f77-e65418092960","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Process_ontology","wgTitle":"Process ontology","wgCurRevisionId":1045559331,"wgRevisionId":1045559331,"wgArticleId":27701207,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Ontology (information science)","Business process","Automated planning and scheduling","Process theory"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Process_ontology","wgRelevantArticleId":27701207,
+"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q7247296","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":false,"wgGELinkRecommendationsFrontendEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready"
+,"user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.38.0-wmf.9"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Process ontology - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Process_ontology"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Process_ontology&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Process_ontology"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Process_ontology rootpage-Process_ontology skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Process ontology</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Process_philosophy" title="Process philosophy">Process philosophy</a></div>
+<p>In <a href="/wiki/Process_philosophy" title="Process philosophy">philosophy</a>, a <b>process ontology</b> refers to a universal model of the structure of the world as an ordered wholeness.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Such ontologies are <a href="/wiki/Fundamental_ontology" title="Fundamental ontology">fundamental ontologies</a>, in contrast to the so-called <a href="/wiki/Applied_ontology" title="Applied ontology">applied ontologies</a>. Fundamental ontologies do not claim to be accessible to any <a href="/wiki/Empirical" class="mw-redirect" title="Empirical">empirical</a> proof in itself, but to be a structural design pattern, out of which empirical <a href="/wiki/Phenomena" class="mw-redirect" title="Phenomena">phenomena</a> can be explained and put together consistently. Throughout Western history, the dominating fundamental ontology is the so-called <a href="/wiki/Substance_theory" title="Substance theory">substance theory</a>. However, fundamental process ontologies are becoming more important in recent times, because the progress in the discovery of the foundations of physics spurred the development of a basic concept able to integrate such boundary notions as "<a href="/wiki/Energy" title="Energy">energy</a>," "<a href="/wiki/Object_(philosophy)" title="Object (philosophy)">object</a>", and those of the physical dimensions of <a href="/wiki/Space" title="Space">space</a> and <a href="/wiki/Time" title="Time">time</a>.
+</p><p>In <a href="/wiki/Computer_science" title="Computer science">computer science</a>, a <b>process ontology</b> is a description of the components and their relationships that make up a process. A formal process ontology is an <a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">ontology</a> in the knowledge domain of processes. Often such ontologies take advantage of the benefits of an <a href="/wiki/Upper_ontology_(information_science)" class="mw-redirect" title="Upper ontology (information science)">upper ontology</a>. <a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Planning software</a> can be used to perform plan generation based on the formal description of the process and its constraints. Numerous efforts have been made to define a process/planning ontology.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Processes"><span class="tocnumber">1</span> <span class="toctext">Processes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ontologies"><span class="tocnumber">2</span> <span class="toctext">Ontologies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#PSL"><span class="tocnumber">2.1</span> <span class="toctext">PSL</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Cyc"><span class="tocnumber">2.2</span> <span class="toctext">Cyc</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#SUPER_and_DDPO"><span class="tocnumber">2.3</span> <span class="toctext">SUPER and DDPO</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#oXPDL"><span class="tocnumber">2.4</span> <span class="toctext">oXPDL</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#GFO"><span class="tocnumber">2.5</span> <span class="toctext">GFO</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#m3po_and_m3pl"><span class="tocnumber">2.6</span> <span class="toctext">m3po and m3pl</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Processes">Processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=1" title="Edit section: Processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A process may be defined as a set of transformations of input elements into output elements with specific properties, with the transformations characterized by parameters and constraints, such as in manufacturing or biology. A process may also be defined as the <a href="/wiki/Workflow" title="Workflow">workflows</a> and <a href="/wiki/Sequence_of_events" class="mw-redirect" title="Sequence of events">sequence of events</a> inherent in processes such as manufacturing, engineering and <a href="/wiki/Business_process" title="Business process">business processes</a>.
+</p>
+<h2><span class="mw-headline" id="Ontologies">Ontologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=2" title="Edit section: Ontologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="PSL">PSL</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=3" title="Edit section: PSL">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Process_Specification_Language" title="Process Specification Language">Process Specification Language</a></div>
+<p>The Process Specification Language (PSL) is a process ontology developed for the formal description and modeling of basic manufacturing, engineering and business processes. This ontology provides a vocabulary of classes and relations for concepts at the ground level of event-instances, object-instances, and timepoints. PSL’s top level is built around the following:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<ul><li>Activity – a class or type of action, such as install-part, which is the class of actions in which parts are installed</li>
+<li>Activity-occurrence – an event or action that takes place at a specific place and time, such as a specific instance of install-part occurring at a specific <a href="/wiki/Timestamp" title="Timestamp">timestamp</a></li>
+<li>Timepoint – a point in time</li>
+<li>Object – anything that is not a timepoint or an activity</li></ul>
+<h3><span class="mw-headline" id="Cyc">Cyc</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=4" title="Edit section: Cyc">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Cyc" title="Cyc">Cyc</a></div>
+<p>In a process/planning ontology developed for the ontology Cyc, classes and relations above the ground level of PSL allow processes to be described purely at the type-level.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The ground level of PSL uses the primitives of event-instance, object-instance, and timepoint description. The types above the ground level of PSL have also been expressed in PSL, showing that the type-level and the ground level are relatively independent. The type-levels for the Cyc process ontology above this ground level use the following concepts:
+</p>
+<ul><li>Process – formalized as a <i>script</i></li>
+<li>Aggregate process – a process at a level above that of a single episode of a process, to represent the numbers of participants in an action by ranges of integers and qualitative values like <i>few</i> or <i>many</i></li>
+<li>Script – a typical pattern of events that can be expected to re-occur
+<ul><li>a <i>script</i> has subevents, which means that <i>scripts</i> are composite events</li></ul></li>
+<li>Scene – a subevent of a <i>script</i></li>
+<li>Roles/participants – specifies types of actors and objects that may play in the <i>script</i> or <i>scene</i></li>
+<li>Conditions – precondition(s) that must be true for a <i>scene</i> (event) to be executable, and postcondition(s) (effects) that must be true after a <i>scene</i></li>
+<li>Repetition – the number of repetitions of a process may be known, or may be unspecified, or may be repeated until a specific condition is true</li>
+<li>Properties of ordering and constitution of repeated subevents for composite processes:
+<ul><li>Begin-Ordered – subevents start at distinct time points that are totally ordered</li>
+<li>End-Ordered – subevents end at distinct time points that are totally ordered</li>
+<li>EndsBeforeEnd – subevents end before or at the same time as subevent instances which start before them</li>
+<li>Sequential – no overlapping subevents</li>
+<li>Terminating – there is a subevent after which no other subevents begin, and since all activities have a begin and end point, there is a time point at which the process ends</li>
+<li>Uniform – all subevents are of the same event type</li></ul></li>
+<li>Identity – the identity of participants in a process, that actor(s) or object(s) playing a role in one <i>scene</i> or repetition are the same as those in another <i>scene</i> or repetition, is represented by constraints on possible participants</li></ul>
+<h3><span class="mw-headline" id="SUPER_and_DDPO">SUPER and DDPO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=5" title="Edit section: SUPER and DDPO">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The project SUPER<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> (<b>S</b>emantics <b>U</b>tilised for <b>P</b>rocess management within and between <b>E</b>nte<b>R</b>prises) has a goal of the definition of ontologies for Semantic Business Process Management (SBPM), but these ontologies can be reused in diverse environments. Part of this project is to define an Upper Process Ontology (UPO) that ties together all other SUPER ontologies. The results of the project SUPER include the UPO and a set of ontologies for processes and organizations.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Most of the ontologies are written in <a href="/wiki/Web_Services_Modeling_Language" title="Web Services Modeling Language">WSML</a>, and some are also written in <a href="/wiki/Open_Configuration_and_Management_Layer" title="Open Configuration and Management Layer">OCML</a>.
+</p><p>A candidate model for the UPO was DDPO<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> (DOLCE+DnS Plan Ontology), a planning ontology which specifies plans and distinguishes between abstract and executable plans. <a href="/wiki/Upper_ontology_(information_science)#DOLCE_and_DnS" class="mw-redirect" title="Upper ontology (information science)">DOLCE</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> (Descriptive Ontology for Linguistic and Cognitive Engineering) aims at capturing the ontological categories underlying natural language and human commonsense. <a href="/wiki/Upper_ontology_(information_science)#DOLCE_and_DnS" class="mw-redirect" title="Upper ontology (information science)">DnS</a> (Descriptions and Situations), is a constructivist ontology that allows for context-sensitive redescriptions of the types and relations postulated by other given ontologies (or ground vocabularies). Together in DDPO, DOLCE and DnS are used to build a Plan Ontology that includes physical and non-physical objects (social entities, mental objects and states, conceptualizations, information objects, constraints), events, states, regions, qualities, and constructivist situations. The main target of DDPO is tasks, namely the types of actions, their sequencing, and the controls performed on them.
+</p>
+<h3><span class="mw-headline" id="oXPDL">oXPDL</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=6" title="Edit section: oXPDL">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ontology oXPDL<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> is a process interchange ontology based on the standardised XML Process Definition Language (<a href="/wiki/XPDL" title="XPDL">XPDL</a>). The purpose of oXPDL is to model the semantics of XPDL process models in standardized Web ontology languages such as <a href="/wiki/Web_Ontology_Language" title="Web Ontology Language">OWL</a> and <a href="/wiki/Web_Services_Modeling_Language" title="Web Services Modeling Language">WSML</a>, while incorporating features of existing standard ontologies such as <a href="/wiki/Process_Specification_Language" title="Process Specification Language">PSL</a>, <a href="/wiki/RosettaNet" title="RosettaNet">RosettaNet</a>, and <a href="/wiki/Suggested_Upper_Merged_Ontology" title="Suggested Upper Merged Ontology">SUMO</a>.
+</p>
+<h3><span class="mw-headline" id="GFO">GFO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=7" title="Edit section: GFO">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/General_Formal_Ontology" class="mw-redirect" title="General Formal Ontology">General Formal Ontology</a></div>
+<p>The General Formal Ontology<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> (<a href="/wiki/Upper_ontology_(information_science)#General_Formal_Ontology_.28GFO.29" class="mw-redirect" title="Upper ontology (information science)">GFO</a>) is an ontology integrating processes and objects. GFO includes elaborations of categories like objects, processes, time and space, properties, relations, roles, functions, facts, and situations. GFO allows for different axiomatizations of its categories, such as the existence of atomic time-intervals vs. dense time. Two of the specialties of GFO are its account of persistence and its time model. Regarding persistence, the distinction between endurants (objects) and perdurants (processes) is made explicit within GFO by the introduction of a special category, a persistant&#32;&#91;<i><a href="/wiki/Sic" title="Sic">sic</a></i>&#93;. A persistant is a special category with the intention that its instances "remain identical" over time. With respect to time, time intervals are taken as primitive in GFO, and time-points (called "time boundaries") are derived. Moreover, time-points may coincide, which is convenient for modelling instantaneous changes.
+</p>
+<h3><span class="mw-headline" id="m3po_and_m3pl">m3po and m3pl</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=8" title="Edit section: m3po and m3pl">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The multi metamodel process ontology<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> (m3po) combines workflows and choreography descriptions so that it can be used as a process interchange ontology. For internal business processes, Workflow Management Systems are used for process modelling and allow describing and executing business processes.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> For external business processes, choreography descriptions are used to describe how business partners can cooperate. A choreography can be considered to be a view of an internal business process with the internal logic not visible, similar to public views on private workflows.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> The m3po ontology unifies both internal and external business processes, combining reference models and languages from the workflow and choreography domains. The m3po ontology is written in <a href="/wiki/Web_Services_Modeling_Language" title="Web Services Modeling Language">WSML</a>. The related ontology m3pl, written in <a href="/wiki/Process_Specification_Language" title="Process Specification Language">PSL</a> using the extension FLOWS (First Order Logic for Web Services), enables the extraction of choreography interfaces from workflow models.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>The m3po ontology combines features of the following reference models and languages:
+</p>
+<ul><li><a href="/wiki/XPDL" title="XPDL">XPDL</a> – a standard for exchanging workflow models, without runtime information, between different workflow management systems</li>
+<li><a href="/wiki/Process_Specification_Language" title="Process Specification Language">PSL</a> – an ontology that allows the capture of the semantics of workflow models and enables translations of models between workflow management systems</li>
+<li><a href="/wiki/YAWL" title="YAWL">YAWL</a> – a research workflow language that supports all workflow patterns directly</li>
+<li><a href="/wiki/BPEL" class="mw-redirect" title="BPEL">BPEL</a> – an executable business process language and includes an abstract protocol</li>
+<li><a href="/wiki/WS-CDL" class="mw-redirect" title="WS-CDL">WS-CDL</a> – a multi-party collaboration model</li></ul>
+<p>The m3po ontology is organized using five key aspects of workflow specifications and workflow management.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> Because different workflow models put a different emphasis on the five aspects, the most elaborate reference model for each aspect was used and combined into m3po.
+</p>
+<ul><li>Functional and Behavioural – the most important concepts are <i>processType</i>, <i>processOccurrence</i>, <i>activityType</i> and <i>activityOccurrence</i></li>
+<li>Informational – defined by data and data-flow</li>
+<li>Organizational – defines who is responsible for carrying out a specific task; security related issues</li>
+<li>Operational – interaction of the workflows with their environment by manual tasks performed by users and automatic tasks performed by automated computer programs</li>
+<li>Orthogonal – scheduling based on time; integrity and failure recovery</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a></li>
+<li><a href="/wiki/Business_process" title="Business process">Business process</a></li>
+<li><a href="/wiki/Manufacturing_process_management" title="Manufacturing process management">Manufacturing process management</a></li>
+<li><a href="/wiki/Object_Process_Methodology" title="Object Process Methodology">Object Process Methodology</a></li>
+<li><a href="/wiki/Process_management" class="mw-disambig" title="Process management">Process management</a></li>
+<li><a href="/wiki/Sequence_of_events" class="mw-redirect" title="Sequence of events">Sequence of events</a></li>
+<li><a href="/wiki/Systems_theory" title="Systems theory">Systems theory</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFRescher" class="citation encyclopaedia cs1">Rescher, Nicholas. <a rel="nofollow" class="external text" href="https://plato.stanford.edu/entries/process-philosophy/">"Process Philosophy"</a>.  In <a href="/wiki/Edward_N._Zalta" title="Edward N. Zalta">Zalta, Edward N.</a> (ed.). <i><a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">Stanford Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Process+Philosophy&amp;rft.btitle=Stanford+Encyclopedia+of+Philosophy&amp;rft.aulast=Rescher&amp;rft.aufirst=Nicholas&amp;rft_id=https%3A%2F%2Fplato.stanford.edu%2Fentries%2Fprocess-philosophy%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span> Cf. <a href="/wiki/Michel_Weber" title="Michel Weber">Michel Weber</a> (ed.), <i><a rel="nofollow" class="external text" href="https://www.academia.edu/279952/After_Whitehead_Rescher_on_Process_Metaphysics">After Whitehead: Rescher on Process Metaphysics</a></i>, Frankfurt / Paris / Lancaster, Ontos Verlag, 2004</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSohst,_Wolfgang2009" class="citation book cs1">Sohst, Wolfgang (2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100827005142/http://www.xenomoi.de/product_info.php/info/p180_NEU--Prozessontologie--Ein-systematischer-Entwurf-der-Entstehung-von-Existenz-.html"><i>Prozessontologie. Ein systematischer Entwurf der Entstehung von Existenz</i></a>. Berlin. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-936532-60-9" title="Special:BookSources/978-3-936532-60-9"><bdi>978-3-936532-60-9</bdi></a>. Archived from <a rel="nofollow" class="external text" href="http://www.xenomoi.de/product_info.php/info/p180_NEU--Prozessontologie--Ein-systematischer-Entwurf-der-Entstehung-von-Existenz-.html">the original</a> on 2010-08-27.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Prozessontologie.+Ein+systematischer+Entwurf+der+Entstehung+von+Existenz&amp;rft.place=Berlin&amp;rft.date=2009&amp;rft.isbn=978-3-936532-60-9&amp;rft.au=Sohst%2C+Wolfgang&amp;rft_id=http%3A%2F%2Fwww.xenomoi.de%2Fproduct_info.php%2Finfo%2Fp180_NEU--Prozessontologie--Ein-systematischer-Entwurf-der-Entstehung-von-Existenz-.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGangemi,_A.,_Borgo,_S.,_Catenacci,_C.,_and_Lehman,_J.2005" class="citation web cs1">Gangemi, A., Borgo, S., Catenacci, C., and Lehman, J. (2005). <a rel="nofollow" class="external text" href="http://www.loa.istc.cnr.it/old/Papers/D07_v21a.pdf">"Task taxonomies for knowledge content (deliverable D07)"</a> <span class="cs1-format">(PDF)</span>. Laboratory for Applied Ontology (LOA). pp.&#160;9–26.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Task+taxonomies+for+knowledge+content+%28deliverable+D07%29&amp;rft.pages=9-26&amp;rft.pub=Laboratory+for+Applied+Ontology+%28LOA%29&amp;rft.date=2005&amp;rft.au=Gangemi%2C+A.%2C+Borgo%2C+S.%2C+Catenacci%2C+C.%2C+and+Lehman%2C+J.&amp;rft_id=http%3A%2F%2Fwww.loa.istc.cnr.it%2Fold%2FPapers%2FD07_v21a.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGangemi,_A.,_Borgo,_S.,_Catenacci,_C.,_and_Lehman,_J.2005" class="citation web cs1">Gangemi, A., Borgo, S., Catenacci, C., and Lehman, J. (2005). <a rel="nofollow" class="external text" href="http://www.loa.istc.cnr.it/Papers/D07_v21a.pdf">"Task taxonomies for knowledge content (deliverable D07)"</a> <span class="cs1-format">(PDF)</span>. Laboratory for Applied Ontology (LOA). p.&#160;16.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Task+taxonomies+for+knowledge+content+%28deliverable+D07%29&amp;rft.pages=16&amp;rft.pub=Laboratory+for+Applied+Ontology+%28LOA%29&amp;rft.date=2005&amp;rft.au=Gangemi%2C+A.%2C+Borgo%2C+S.%2C+Catenacci%2C+C.%2C+and+Lehman%2C+J.&amp;rft_id=http%3A%2F%2Fwww.loa.istc.cnr.it%2FPapers%2FD07_v21a.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAitken2001" class="citation web cs1">Aitken, Stuart (2001). <a rel="nofollow" class="external text" href="http://www.aiai.ed.ac.uk/~stuart/Papers/plan01-ws.pdf">"Process Representation and Planning in Cyc: From Scripts and Scenes to Constraints"</a> <span class="cs1-format">(PDF)</span>. Artificial Intelligence Applications Institute (AIAI), University of Edinburgh.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Process+Representation+and+Planning+in+Cyc%3A+From+Scripts+and+Scenes+to+Constraints&amp;rft.pub=Artificial+Intelligence+Applications+Institute+%28AIAI%29%2C+University+of+Edinburgh&amp;rft.date=2001&amp;rft.aulast=Aitken&amp;rft.aufirst=Stuart&amp;rft_id=http%3A%2F%2Fwww.aiai.ed.ac.uk%2F~stuart%2FPapers%2Fplan01-ws.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAitkenCurtis2002" class="citation book cs1">Aitken, Stuart; Curtis, Jon (2002). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/knowledgeenginee0000euro/page/263"><i>Design of a Process Ontology: Vocabulary, Semantics, and Usage</i></a></span>. <i>Knowledge Engineering and Knowledge Management: Ontologies and the Semantic Web</i>. Lecture Notes in Computer Science. <b>2473</b>. Berlin/Heidelberg: Springer. pp.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/knowledgeenginee0000euro/page/263">263–270</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2F3-540-45810-7_13">10.1007/3-540-45810-7_13</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-44268-4" title="Special:BookSources/978-3-540-44268-4"><bdi>978-3-540-44268-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Design+of+a+Process+Ontology%3A+Vocabulary%2C+Semantics%2C+and+Usage&amp;rft.place=Berlin%2FHeidelberg&amp;rft.series=Lecture+Notes+in+Computer+Science&amp;rft.pages=263-270&amp;rft.pub=Springer&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1007%2F3-540-45810-7_13&amp;rft.isbn=978-3-540-44268-4&amp;rft.aulast=Aitken&amp;rft.aufirst=Stuart&amp;rft.au=Curtis%2C+Jon&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fknowledgeenginee0000euro%2Fpage%2F263&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ip-super.org/res/Deliverables/M12/D1.1.pdf">"Project IST 026850 SUPER: Business Process Ontology Framework (deliverable 1.1)"</a> <span class="cs1-format">(PDF)</span>. Information Society Technologies (IST). May 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Project+IST+026850+SUPER%3A+Business+Process+Ontology+Framework+%28deliverable+1.1%29&amp;rft.pub=Information+Society+Technologies+%28IST%29&amp;rft.date=2007-05&amp;rft_id=http%3A%2F%2Fwww.ip-super.org%2Fres%2FDeliverables%2FM12%2FD1.1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071011224532/http://www.ip-super.org/content/view/129/136/">"SUPER Ontologies"</a>. Information Society Technologies (IST). 2007. Archived from <a rel="nofollow" class="external text" href="http://www.ip-super.org/content/view/129/136/">the original</a> on 2007-10-11.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SUPER+Ontologies&amp;rft.pub=Information+Society+Technologies+%28IST%29&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.ip-super.org%2Fcontent%2Fview%2F129%2F136%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ip-super.org/res/Deliverables/M36/D1.5.pdf">"Project IST 026850 SUPER: Process Ontology Stack, Evolved Version (deliverable 1.5)"</a> <span class="cs1-format">(PDF)</span>. Information Society Technologies (IST). March 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Project+IST+026850+SUPER%3A+Process+Ontology+Stack%2C+Evolved+Version+%28deliverable+1.5%29&amp;rft.pub=Information+Society+Technologies+%28IST%29&amp;rft.date=2009-03&amp;rft_id=http%3A%2F%2Fwww.ip-super.org%2Fres%2FDeliverables%2FM36%2FD1.5.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGangemi,_A.,_Borgo,_S.,_Catenacci,_C.,_and_Lehman,_J.2005" class="citation web cs1">Gangemi, A., Borgo, S., Catenacci, C., and Lehman, J. (2005). <a rel="nofollow" class="external text" href="http://www.loa.istc.cnr.it/Papers/D07_v21a.pdf">"Task taxonomies for knowledge content (deliverable D07)"</a> <span class="cs1-format">(PDF)</span>. Laboratory for Applied Ontology (LOA). pp.&#160;27–66.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Task+taxonomies+for+knowledge+content+%28deliverable+D07%29&amp;rft.pages=27-66&amp;rft.pub=Laboratory+for+Applied+Ontology+%28LOA%29&amp;rft.date=2005&amp;rft.au=Gangemi%2C+A.%2C+Borgo%2C+S.%2C+Catenacci%2C+C.%2C+and+Lehman%2C+J.&amp;rft_id=http%3A%2F%2Fwww.loa.istc.cnr.it%2FPapers%2FD07_v21a.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMasolo,_ClaudioBorgo,_StefanoGangemi,_AldoGuarino,_Nicolac._2002" class="citation web cs1">Masolo, Claudio; Borgo, Stefano; Gangemi, Aldo; Guarino, Nicola; Oltramari, Alessandro (c. 2002). <a rel="nofollow" class="external text" href="http://www.loa.istc.cnr.it/Papers/D18.pdf">"WonderWeb Deliverable D18: Ontology Library"</a> <span class="cs1-format">(PDF)</span>. Laboratory for Applied Ontology (LOA).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WonderWeb+Deliverable+D18%3A+Ontology+Library&amp;rft.pub=Laboratory+for+Applied+Ontology+%28LOA%29&amp;rft.au=Masolo%2C+Claudio&amp;rft.au=Borgo%2C+Stefano&amp;rft.au=Gangemi%2C+Aldo&amp;rft.au=Guarino%2C+Nicola&amp;rft.au=Oltramari%2C+Alessandro&amp;rft_id=http%3A%2F%2Fwww.loa.istc.cnr.it%2FPapers%2FD18.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://dolce.semanticweb.org/">"DOLCE: a Descriptive Ontology for Linguistic and Cognitive Engineering"</a>. Laboratory for Applied Ontology (LOA).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DOLCE%3A+a+Descriptive+Ontology+for+Linguistic+and+Cognitive+Engineering&amp;rft.pub=Laboratory+for+Applied+Ontology+%28LOA%29&amp;rft_id=http%3A%2F%2Fdolce.semanticweb.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHaller,_ArminMarmolowski,_MateuszOren,_EyalGaaloul,_Walid2008" class="citation web cs1">Haller, Armin; Marmolowski, Mateusz; Oren, Eyal; Gaaloul, Walid (April 2008). <a rel="nofollow" class="external text" href="http://www.deri.ie/fileadmin/documents/DERI-TR-2008-04-01.pdf">"A Process Ontology for Business Intelligence"</a> <span class="cs1-format">(PDF)</span>. Digital Enterprise Research Institute (DERI).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Process+Ontology+for+Business+Intelligence&amp;rft.pub=Digital+Enterprise+Research+Institute+%28DERI%29&amp;rft.date=2008-04&amp;rft.au=Haller%2C+Armin&amp;rft.au=Marmolowski%2C+Mateusz&amp;rft.au=Oren%2C+Eyal&amp;rft.au=Gaaloul%2C+Walid&amp;rft_id=http%3A%2F%2Fwww.deri.ie%2Ffileadmin%2Fdocuments%2FDERI-TR-2008-04-01.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.onto-med.de/ontologies/gfo">"General Formal Ontology (GFO)"</a>. University of Leipzig: Ontologies in Medicine and Life Sciences (Onto-Med).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=General+Formal+Ontology+%28GFO%29&amp;rft.place=University+of+Leipzig&amp;rft.pub=Ontologies+in+Medicine+and+Life+Sciences+%28Onto-Med%29&amp;rft_id=http%3A%2F%2Fwww.onto-med.de%2Fontologies%2Fgfo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHerre,_Heinrich2010" class="citation web cs1">Herre, Heinrich (2010). <a rel="nofollow" class="external text" href="https://www.onto-med.de/sites/www.onto-med.de/files/files/uploads/Publications/2010/gfo-basic-principles.pdf">"General Formal Ontology (GFO): A Foundational Ontology for Conceptual Modelling"</a> <span class="cs1-format">(PDF)</span>. IMISE University of Leipzig: Research Department Ontologies in Medicine and Life Sciences (Onto-Med).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=General+Formal+Ontology+%28GFO%29%3A+A+Foundational+Ontology+for+Conceptual+Modelling&amp;rft.place=IMISE+University+of+Leipzig&amp;rft.pub=Research+Department+Ontologies+in+Medicine+and+Life+Sciences+%28Onto-Med%29&amp;rft.date=2010&amp;rft.au=Herre%2C+Heinrich&amp;rft_id=https%3A%2F%2Fwww.onto-med.de%2Fsites%2Fwww.onto-med.de%2Ffiles%2Ffiles%2Fuploads%2FPublications%2F2010%2Fgfo-basic-principles.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHaller,_ArminOren,_Eyal2006" class="citation web cs1">Haller, Armin; Oren, Eyal (February 2006). <a rel="nofollow" class="external text" href="http://www.m3pe.org/deliverables/process-ontology.pdf">"A process ontology to represent semantics of different process and choreography meta-models"</a> <span class="cs1-format">(PDF)</span>. National University of Ireland, Galway: Digital Enterprise Research Institute (DERI).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+process+ontology+to+represent+semantics+of+different+process+and+choreography+meta-models&amp;rft.place=National+University+of+Ireland%2C+Galway&amp;rft.pub=Digital+Enterprise+Research+Institute+%28DERI%29&amp;rft.date=2006-02&amp;rft.au=Haller%2C+Armin&amp;rft.au=Oren%2C+Eyal&amp;rft_id=http%3A%2F%2Fwww.m3pe.org%2Fdeliverables%2Fprocess-ontology.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHaller,_A.Oren,_E.Kotinurmi,_P.2006" class="citation journal cs1">Haller, A.; Oren, E.; Kotinurmi, P. (September 2006). <a rel="nofollow" class="external text" href="http://www.m3pe.org/publications/m3po.pdf">"m3po: An Ontology to Relate Choreographies to Workflow Models"</a> <span class="cs1-format">(PDF)</span>. <i>Proceedings of the 3rd International Conference on Services Computing (SCC)</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+3rd+International+Conference+on+Services+Computing+%28SCC%29&amp;rft.atitle=m3po%3A+An+Ontology+to+Relate+Choreographies+to+Workflow+Models&amp;rft.date=2006-09&amp;rft.au=Haller%2C+A.&amp;rft.au=Oren%2C+E.&amp;rft.au=Kotinurmi%2C+P.&amp;rft_id=http%3A%2F%2Fwww.m3pe.org%2Fpublications%2Fm3po.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGeorgakopoulos,_D.Hornick,_M.Sheth,_A.1995" class="citation journal cs1">Georgakopoulos, D.; Hornick, M.; Sheth, A. (1995). "An overview of workflow management: From process modeling to workflow automation infrastructure". <i>Distributed and Parallel Databases</i>. <b>3</b> (2): 119–153. <a href="/wiki/CiteSeerX_(identifier)" class="mw-redirect" title="CiteSeerX (identifier)">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.101.5199">10.1.1.101.5199</a></span>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fbf01277643">10.1007/bf01277643</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:446699">446699</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Distributed+and+Parallel+Databases&amp;rft.atitle=An+overview+of+workflow+management%3A+From+process+modeling+to+workflow+automation+infrastructure&amp;rft.volume=3&amp;rft.issue=2&amp;rft.pages=119-153&amp;rft.date=1995&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.101.5199%23id-name%3DCiteSeerX&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A446699%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1007%2Fbf01277643&amp;rft.au=Georgakopoulos%2C+D.&amp;rft.au=Hornick%2C+M.&amp;rft.au=Sheth%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFChiu,_D._K._W.2004" class="citation journal cs1">Chiu, D. K. W.;  et&#160;al. (2004). "Workflow view driven cross-organizational interoperability in a web service environment". <i>Inf. Tech. And Management</i>. <b>5</b> (3–4): 221–250. <a href="/wiki/CiteSeerX_(identifier)" class="mw-redirect" title="CiteSeerX (identifier)">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.648.5148">10.1.1.648.5148</a></span>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1023%2Fb%3Aitem.0000031580.57966.d4">10.1023/b:item.0000031580.57966.d4</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:40564279">40564279</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Inf.+Tech.+And+Management&amp;rft.atitle=Workflow+view+driven+cross-organizational+interoperability+in+a+web+service+environment&amp;rft.volume=5&amp;rft.issue=3%E2%80%934&amp;rft.pages=221-250&amp;rft.date=2004&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.648.5148%23id-name%3DCiteSeerX&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A40564279%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1023%2Fb%3Aitem.0000031580.57966.d4&amp;rft.au=Chiu%2C+D.+K.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDijkmanm,_R.Dumas,_M.2004" class="citation journal cs1">Dijkmanm, R.; Dumas, M. (December 2004). <a rel="nofollow" class="external text" href="https://eprints.qut.edu.au/622/1/SOD_%28revised%29.pdf">"Service-oriented design: A multi-viewpoint approach"</a> <span class="cs1-format">(PDF)</span>. <i>International Journal of Cooperative Information Systems</i>. <b>13</b> (4): 337–368. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1142%2Fs0218843004001012">10.1142/s0218843004001012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Cooperative+Information+Systems&amp;rft.atitle=Service-oriented+design%3A+A+multi-viewpoint+approach&amp;rft.volume=13&amp;rft.issue=4&amp;rft.pages=337-368&amp;rft.date=2004-12&amp;rft_id=info%3Adoi%2F10.1142%2Fs0218843004001012&amp;rft.au=Dijkmanm%2C+R.&amp;rft.au=Dumas%2C+M.&amp;rft_id=https%3A%2F%2Feprints.qut.edu.au%2F622%2F1%2FSOD_%2528revised%2529.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSchulz,_K._A.Orlowska,_M._E.2004" class="citation journal cs1">Schulz, K. A.; Orlowska, M. E. (2004). "Facilitating cross-organisational workflows with a workflow view approach". <i>Data Knowl. Eng</i>. <b>51</b> (1): 109–147. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.datak.2004.03.008">10.1016/j.datak.2004.03.008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Data+Knowl.+Eng.&amp;rft.atitle=Facilitating+cross-organisational+workflows+with+a+workflow+view+approach&amp;rft.volume=51&amp;rft.issue=1&amp;rft.pages=109-147&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1016%2Fj.datak.2004.03.008&amp;rft.au=Schulz%2C+K.+A.&amp;rft.au=Orlowska%2C+M.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHaller,_A.Oren,_E.2006" class="citation journal cs1">Haller, A.; Oren, E. (June 2006). <a rel="nofollow" class="external text" href="http://www.m3pe.org/publications/m3pl_sbpm2006.pdf">"m3pl: A Work-FLOWS ontology extension to extract choreography interfaces"</a> <span class="cs1-format">(PDF)</span>. <i>Proceedings of the Workshop on Semantics for Business Process Management, in Conjunction with ESWC2006</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+Workshop+on+Semantics+for+Business+Process+Management%2C+in+Conjunction+with+ESWC2006&amp;rft.atitle=m3pl%3A+A+Work-FLOWS+ontology+extension+to+extract+choreography+interfaces&amp;rft.date=2006-06&amp;rft.au=Haller%2C+A.&amp;rft.au=Oren%2C+E.&amp;rft_id=http%3A%2F%2Fwww.m3pe.org%2Fpublications%2Fm3pl_sbpm2006.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJablonski,_S.Bussler,_C.1996" class="citation book cs1">Jablonski, S.; Bussler, C. (1996). <i>Workflow Management: Modeling Concepts, Architecture and Implementation</i>. International Thomson Computer Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Workflow+Management%3A+Modeling+Concepts%2C+Architecture+and+Implementation&amp;rft.pub=International+Thomson+Computer+Press&amp;rft.date=1996&amp;rft.au=Jablonski%2C+S.&amp;rft.au=Bussler%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AProcess+ontology" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Process_ontology&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.loa.istc.cnr.it/">Laboratory for Applied Ontology (LOA)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ip-super.org/">Semantics Utilised for Process Management within and between Enterprises (SUPER)</a></li>
+<li><a rel="nofollow" class="external text" href="http://dolce.semanticweb.org/">Descriptive Ontology for Linguistic and Cognitive Engineering (DOLCE)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.onto-med.de/">Onto-Med</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.m3pe.org/">multi meta model process engineering (m3pe)</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1419
+Cached time: 20211119004046
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.315 seconds
+Real time usage: 0.386 seconds
+Preprocessor visited node count: 1130/1000000
+Post‐expand include size: 45325/2097152 bytes
+Template argument size: 167/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 77106/5000000 bytes
+Lua time usage: 0.180/10.000 seconds
+Lua memory usage: 4416185/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  345.384      1 -total
+ 76.13%  262.941      1 Template:Reflist
+ 34.44%  118.949      1 Template:Cite_SEP
+ 32.98%  113.909      1 Template:Cite_encyclopaedia
+ 16.66%   57.524      1 Template:See_also
+ 14.92%   51.533     13 Template:Cite_web
+  8.65%   29.885      6 Template:Cite_journal
+  5.66%   19.537      3 Template:Cite_book
+  2.44%    8.442      3 Template:Main
+  0.97%    3.365      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27701207-0!canonical and timestamp 20211119004045 and revision id 1045559331. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Process_ontology&amp;oldid=1045559331">https://en.wikipedia.org/w/index.php?title=Process_ontology&amp;oldid=1045559331</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ontology_(information_science)" title="Category:Ontology (information science)">Ontology (information science)</a></li><li><a href="/wiki/Category:Business_process" title="Category:Business process">Business process</a></li><li><a href="/wiki/Category:Automated_planning_and_scheduling" title="Category:Automated planning and scheduling">Automated planning and scheduling</a></li><li><a href="/wiki/Category:Process_theory" title="Category:Process theory">Process theory</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span>Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Process+ontology" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Process+ontology" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Process_ontology" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Process_ontology" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading">
+		
+		<span>Variants</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Process_ontology"><span>Read</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Process_ontology&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Process_ontology&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" aria-label="" class="vector-menu-heading">
+		
+		<span>More</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class=" vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Special:Search"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Process_ontology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Process_ontology" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Process_ontology&amp;oldid=1045559331" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Process_ontology&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Process_ontology&amp;id=1045559331&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7247296" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Process_ontology&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Process_ontology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7247296#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 21 September 2021, at 05:59<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Process_ontology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.315","walltime":"0.386","ppvisitednodes":{"value":1130,"limit":1000000},"postexpandincludesize":{"value":45325,"limit":2097152},"templateargumentsize":{"value":167,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":77106,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  345.384      1 -total"," 76.13%  262.941      1 Template:Reflist"," 34.44%  118.949      1 Template:Cite_SEP"," 32.98%  113.909      1 Template:Cite_encyclopaedia"," 16.66%   57.524      1 Template:See_also"," 14.92%   51.533     13 Template:Cite_web","  8.65%   29.885      6 Template:Cite_journal","  5.66%   19.537      3 Template:Cite_book","  2.44%    8.442      3 Template:Main","  0.97%    3.365      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.180","limit":"10.000"},"limitreport-memusage":{"value":4416185,"limit":52428800}},"cachereport":{"origin":"mw1419","timestamp":"20211119004046","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Process ontology","url":"https:\/\/en.wikipedia.org\/wiki\/Process_ontology","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7247296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7247296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-06-13T19:17:38Z","dateModified":"2021-09-21T05:59:20Z","headline":"(in computer science) description of the components and their relationships that make up a process"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142,"wgHostname":"mw1456"});});</script>
+</body>
+</html>
